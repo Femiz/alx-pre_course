@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 #!/bash/bin
-=======
->>>>>>> update_script
-touch
+touch up-to-date
