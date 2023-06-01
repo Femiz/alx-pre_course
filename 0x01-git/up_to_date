@@ -1,2 +1,2 @@
 #!/bash/bin
-touch up-to-date
+git pull
